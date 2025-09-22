@@ -46,8 +46,8 @@ Para explorar os projetos e executar as queries, siga os passos abaixo:
 
 1.  **Clone o Repositório**
     ```bash
-    git clone [https://github.com/seu-usuario/meu-repositorio-postgres.git](https://github.com/seu-usuario/meu-repositorio-postgres.git)
-    cd meu-repositorio-postgres
+    git clone [https://github.com/danielduartt/SQL-data-analysis-portfolio](https://github.com/danielduartt/SQL-data-analysis-portfolio)
+    cd SQL-data-analysis-portfolio
     ```
 
 2.  **Configure o Banco de Dados**
