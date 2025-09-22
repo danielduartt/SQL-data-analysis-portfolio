@@ -1,15 +1,11 @@
 # 🚀 Portfólio de Projetos e Estudos em SQL com PostgreSQL
 
-![PostgreSQL Banner](https://i.imgur.com/815g23H.png)
-
 ## 👋 Olá! Bem-vindo(a) ao meu Repositório de SQL!
 
 Este espaço é dedicado a demonstrar minhas habilidades em análise de dados e manipulação de bancos de dados utilizando **SQL**, com um foco especial no SGBD **PostgreSQL**. Aqui você encontrará desde scripts para a criação de schemas e guias de estudo, até projetos de portfólio completos que resolvem problemas de negócio do mundo real.
 
 O objetivo deste repositório é servir como uma prova viva do meu conhecimento técnico, minha capacidade de organizar código e minha habilidade em transformar dados brutos em insights valiosos.
 
-- **Autor:** [SEU-NOME]
-- **Contato:** [LINK-PARA-SEU-LINKEDIN]
 
 ---
 
